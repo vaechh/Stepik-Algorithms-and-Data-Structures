@@ -1,4 +1,4 @@
-import BaseStructures.MyStack;
+import BaseStructures.PlacingParentheses.MyStack;
 
 import java.util.logging.Logger;
 

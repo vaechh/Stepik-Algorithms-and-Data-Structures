@@ -1,4 +1,4 @@
-package BaseStructures;
+package BaseStructures.PlacingParentheses;
 
 public class MyStack<T> {
     private StackNode<T> head;

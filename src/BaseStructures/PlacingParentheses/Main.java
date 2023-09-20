@@ -1,4 +1,4 @@
-package BaseStructures;
+package BaseStructures.PlacingParentheses;
 
 import java.util.Scanner;
 
